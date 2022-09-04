@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front End**
 
-- 👯 I’m looking to collaborate on **Front End , c++ and python Projects**
+- 👯 I’m looking to collaborate on **Front End , c++ and  python Projects**
 
 - 📫 How to reach me **sheko147atwa@gmail.com**
 

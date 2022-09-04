@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shorokatwa14" target="blank"><img src="https://img.shields.io/twitter/follow/shorokatwa14?logo=twitter&style=for-the-badge" alt="shorokatwa14" /></a> </p>
 
-- 🌱 I’m currently learning **Front End Basics**
+- 🌱 I’m currently learning **Front End Development**
 
 - 📫 How to reach me **sheko147atwa@gmail.com**
 
@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorokatwa14&show_icons=true&locale=en&layout=compact" alt="shorokatwa14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shorokatwa14&show_icons=true&locale=en" alt="shorokatwa14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorokatwa14&" alt="shorokatwa14" /></p>

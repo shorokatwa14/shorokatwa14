@@ -27,10 +27,8 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorokatwa14&show_icons=true&locale=en&layout=compact" alt="shorokatwa14" /></p>
 <br>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorokatwa14&show_icons=true&locale=en&layout=compact" alt="shorokatwa14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shorokatwa14&show_icons=true&locale=en" alt="shorokatwa14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorokatwa14&" alt="shorokatwa14" /></p>
 
 

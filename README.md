@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shorokatwa14" target="blank"><img src="https://img.shields.io/twitter/follow/shorokatwa14?logo=twitter&style=for-the-badge" alt="shorokatwa14" /></a> </p>
 
-- 🔭 I’m currently **Junior CS Student**
+ -🔭 I’m currently **Junior CS Student**
 
 - 🌱 I’m currently learning **Front End**
 
-- 👯 I’m looking to collaborate on **Front End - c++ - python Projects**
+- 👯 I’m looking to collaborate on **Front End , c++ and python Projects**
 
 - 📫 How to reach me **sheko147atwa@gmail.com**
 

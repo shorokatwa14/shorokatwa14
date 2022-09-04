@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shorok Mohamed</h1>
-<h3 align="center">I'm a Junior Computer Science Student ,A passionate frontend developer from Egypt ,competitive programmer at Codeforces, Leetcode and Hacker Rank</h3>
+<h3 align="center">I'm a Junior Computer Science Student <br> A passionate frontend developer from Egypt <br> I'm a competitive programmer at Codeforces, Leetcode and Hacker Rank</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorokatwa14&label=Profile%20views&color=0e75b6&style=flat" alt="shorokatwa14" /> </p>
 

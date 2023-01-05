@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **sheko147atwa@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Hello+Dribbble%21&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=CChassany&utm_content=Hello%20Dribbble!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=CChassany&utm_content=Hello%20Dribbble!&utm_medium=Social_Share">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shorokatwa14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shorokatwa14" height="30" width="40" /></a>

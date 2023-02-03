@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shorok Mohamed</h1>
-<h3 align="center">I'm a Junior Computer Science Student <br> Passionate about Data Science and Machine Learning.<br> Seeking an internship in a leading organization in one of the previous fields </h3>
+<h3 align="center">I'm a Junior Computer Science Student <br> Passionate about Data Science and Machine Learning.<br> S
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorokatwa14&label=Profile%20views&color=0e75b6&style=flat" alt="shorokatwa14" /> </p>
 

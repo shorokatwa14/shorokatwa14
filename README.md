@@ -8,6 +8,7 @@
 </p>  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shorokatwa14&label=Profile%20views&color=0e75b6&style=flat" alt="shorokatwa14" /> </p>
+	   
 ## 💁‍♀️ About me
   
  - :student: I’m currently `Computer Science Student `.

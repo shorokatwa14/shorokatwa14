@@ -1,11 +1,4 @@
-<div>
-   <div>
-    <div align="center">
-        <img src="" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
-    </div>
-	 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+I'm+Shorok+Mohamed;Computer+Science+Student;Passionate+ about+Data+Science; and+Machine+Learning;...;&center=true&width=450&height=50&duration=4000&pause=1000">
-</p>  
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorokatwa14&label=Profile%20views&color=0e75b6&style=flat" alt="shorokatwa14" /> </p>
 <div>

@@ -11,7 +11,7 @@
 	   
 ## 💁‍♀️ About me
   
- - :student: I’m currently `Computer Science Student `.
+ - :student: I’m currently `A Junior Computer Science Student `.
  - 🎯 I’m currently focusing on `Data Science and Machine Learning`
  - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
  - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`.

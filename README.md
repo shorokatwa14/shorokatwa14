@@ -14,9 +14,9 @@
  - :student: I’m currently `Computer Science Student `.
  - 🎯 I’m currently focusing on `Data Science and Machine Learning`
  - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
- - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`
- - 📝 enjoy learning new things about Software Development 
-  - 📫 How to reach me **shorokrashid14@gmail.com**
+ - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`.
+ - 📝 A Computer Geek and a self-taught Software Developer.
+ - 📫 How to reach me **shorokrashid14@gmail.com**
 	<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

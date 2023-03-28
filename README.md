@@ -10,8 +10,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shorokatwa14&label=Profile%20views&color=0e75b6&style=flat" alt="shorokatwa14" /> </p>
 ## 💁‍♀️ About me
   
- - :student: I’m currently learning: `Computer Science`.
- - 🎯 I’m currently focusing on **re**
+ - :student: I’m currently `Computer Science Student `.
+ - 🎯 I’m currently focusing on **Data Science and Machine Learning**
  - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
  - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`
  - 📝 enjoy learning new things about software development 

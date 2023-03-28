@@ -1,7 +1,7 @@
  <div>
    <div>
     <div align="center">
-        <img src="https://octodex.github.com/femalecodertocat/" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
+        <img src="https://octodex.github.com/images/femalecodertocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
     </div>
 	 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+I'm+Shorok+Mohamed;Computer+Science+Student;Passionate+ about+Data+Science; and+Machine+Learning;...;&center=true&width=450&height=50&duration=4000&pause=1000">

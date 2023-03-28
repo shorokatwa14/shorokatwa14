@@ -1,7 +1,7 @@
  <div>
    <div>
     <div align="center">
-        <img src="https://media.istockphoto.com/id/1084848808/vector/children-coding-lettering.jpg?s=612x612&w=0&k=20&c=sxXz0paLmEyi7AoP2DciZiaExOuTYhyxLx_znI1m0aM=" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
+        <img src="https://png.pngtree.com/png-vector/20220423/ourmid/pngtree-girl-holding-laptop-png-image_4552658.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
     </div>
 	 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+I'm+Shorok+Mohamed;Computer+Science+Student;Passionate+ about+Data+Science; and+Machine+Learning;...;&center=true&width=450&height=50&duration=4000&pause=1000">

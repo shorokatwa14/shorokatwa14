@@ -1,7 +1,4 @@
- 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shorokatwa14&label=Profile%20views&color=0e75b6&style=flat" alt="shorokatwa14" /> </p>
-<div>
+ <div>
    <div>
     <div align="center">
         <img src="https://media.istockphoto.com/id/1084848808/vector/children-coding-lettering.jpg?s=612x612&w=0&k=20&c=sxXz0paLmEyi7AoP2DciZiaExOuTYhyxLx_znI1m0aM=" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">

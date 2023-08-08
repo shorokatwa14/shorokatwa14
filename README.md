@@ -9,7 +9,7 @@
 	   
 ## 💁‍♀️ About me
   
- - :student: I’m currently `A Junior Computer Science Student `.
+ - :student: I’m currently `A Senior Computer Science Student `.
  - 🎯 I’m currently focusing on `Data Science and Machine Learning`
  - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`.
  - 📝 A Computer Geek and a self-taught Software Developer.

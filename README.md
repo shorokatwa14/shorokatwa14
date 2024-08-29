@@ -9,7 +9,7 @@
 	   
 ## 💁‍♀️ About me
   
- - :student: I’m a fresh graduate`.
+ - : I’m a fresh graduate .
  - 🎯 I’m currently focusing on `Data fields`
  - 📝 A Computer Geek and a self-taught Software Developer.
  - 📫 How to reach me **shorokatwa@gmail.com**

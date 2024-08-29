@@ -9,11 +9,10 @@
 	   
 ## 💁‍♀️ About me
   
- - :student: I’m currently `A Senior Computer Science Student `.
- - 🎯 I’m currently focusing on `Data Science and Data Engineering`
- - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`.
+ - :student: I’m a fresh graduate`.
+ - 🎯 I’m currently focusing on `Data fields`
  - 📝 A Computer Geek and a self-taught Software Developer.
- - 📫 How to reach me **shorokrashid14@gmail.com**
+ - 📫 How to reach me **shorokatwa@gmail.com**
 	<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -10,7 +10,7 @@
 ## 💁‍♀️ About me
   
  -  I’m a fresh graduate .
- - 🎯 I’m currently focusing on `Data fields`
+ - 🎯 I’m currently focusing on `Software Engineering`
  - 📝 A Computer Geek and a self-taught Software Developer.
  - 📫 How to reach me **shorokatwa@gmail.com**
 	<br>
